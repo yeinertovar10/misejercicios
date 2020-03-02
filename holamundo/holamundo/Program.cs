@@ -13,6 +13,7 @@ class program
         Console.WriteLine("como estan los amigos");
         Console.WriteLine("que cambios hay por alla");
         Console.WriteLine("los intructores nos explican muy bien todos los temas de programacion");
+        console.waritLine("que le parece");
         Console.ReadLine();
     
 
